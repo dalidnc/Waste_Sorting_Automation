@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dali7\\source\\repos\\At\u0131k_Ayr\u0131\u015Ft\u0131rma_Tesisi_Otomasyonu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08D9F7FF-3626-496F-9A74-1066DB307A14}|At\u0131k_Ayr\u0131\u015Ft\u0131rma_Tesisi_Otomasyonu.csproj|c:\\users\\dali7\\source\\repos\\at\u0131k_ayr\u0131\u015Ft\u0131rma_tesisi_otomasyonu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08D9F7FF-3626-496F-9A74-1066DB307A14}|At\u0131k_Ayr\u0131\u015Ft\u0131rma_Tesisi_Otomasyonu.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08D9F7FF-3626-496F-9A74-1066DB307A14}|At\u0131k_Ayr\u0131\u015Ft\u0131rma_Tesisi_Otomasyonu.csproj|C:\\Users\\dali7\\source\\repos\\At\u0131k_Ayr\u0131\u015Ft\u0131rma_Tesisi_Otomasyonu\\forms\\fabrikagenel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{08D9F7FF-3626-496F-9A74-1066DB307A14}|At\u0131k_Ayr\u0131\u015Ft\u0131rma_Tesisi_Otomasyonu.csproj|solutionrelative:forms\\fabrikagenel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08D9F7FF-3626-496F-9A74-1066DB307A14}|At\u0131k_Ayr\u0131\u015Ft\u0131rma_Tesisi_Otomasyonu.csproj|C:\\Users\\dali7\\source\\repos\\At\u0131k_Ayr\u0131\u015Ft\u0131rma_Tesisi_Otomasyonu\\forms\\analizsayfasi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{08D9F7FF-3626-496F-9A74-1066DB307A14}|At\u0131k_Ayr\u0131\u015Ft\u0131rma_Tesisi_Otomasyonu.csproj|solutionrelative:forms\\analizsayfasi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08D9F7FF-3626-496F-9A74-1066DB307A14}|At\u0131k_Ayr\u0131\u015Ft\u0131rma_Tesisi_Otomasyonu.csproj|C:\\Users\\dali7\\source\\repos\\At\u0131k_Ayr\u0131\u015Ft\u0131rma_Tesisi_Otomasyonu\\forms\\konveyorsayfasi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{08D9F7FF-3626-496F-9A74-1066DB307A14}|At\u0131k_Ayr\u0131\u015Ft\u0131rma_Tesisi_Otomasyonu.csproj|solutionrelative:forms\\konveyorsayfasi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08D9F7FF-3626-496F-9A74-1066DB307A14}|At\u0131k_Ayr\u0131\u015Ft\u0131rma_Tesisi_Otomasyonu.csproj|c:\\users\\dali7\\source\\repos\\at\u0131k_ayr\u0131\u015Ft\u0131rma_tesisi_otomasyonu\\forms\\konveyorsayfasi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08D9F7FF-3626-496F-9A74-1066DB307A14}|At\u0131k_Ayr\u0131\u015Ft\u0131rma_Tesisi_Otomasyonu.csproj|solutionrelative:forms\\konveyorsayfasi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08D9F7FF-3626-496F-9A74-1066DB307A14}|At\u0131k_Ayr\u0131\u015Ft\u0131rma_Tesisi_Otomasyonu.csproj|c:\\users\\dali7\\source\\repos\\at\u0131k_ayr\u0131\u015Ft\u0131rma_tesisi_otomasyonu\\forms\\analizsayfasi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08D9F7FF-3626-496F-9A74-1066DB307A14}|At\u0131k_Ayr\u0131\u015Ft\u0131rma_Tesisi_Otomasyonu.csproj|solutionrelative:forms\\analizsayfasi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08D9F7FF-3626-496F-9A74-1066DB307A14}|At\u0131k_Ayr\u0131\u015Ft\u0131rma_Tesisi_Otomasyonu.csproj|c:\\users\\dali7\\source\\repos\\at\u0131k_ayr\u0131\u015Ft\u0131rma_tesisi_otomasyonu\\forms\\fabrikaa\u015Famalar\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08D9F7FF-3626-496F-9A74-1066DB307A14}|At\u0131k_Ayr\u0131\u015Ft\u0131rma_Tesisi_Otomasyonu.csproj|solutionrelative:forms\\fabrikaa\u015Famalar\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08D9F7FF-3626-496F-9A74-1066DB307A14}|At\u0131k_Ayr\u0131\u015Ft\u0131rma_Tesisi_Otomasyonu.csproj|c:\\users\\dali7\\source\\repos\\at\u0131k_ayr\u0131\u015Ft\u0131rma_tesisi_otomasyonu\\forms\\fabrikagenel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08D9F7FF-3626-496F-9A74-1066DB307A14}|At\u0131k_Ayr\u0131\u015Ft\u0131rma_Tesisi_Otomasyonu.csproj|solutionrelative:forms\\fabrikagenel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1392,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FabrikaGenel.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dali7\\source\\repos\\At\u0131k_Ayr\u0131\u015Ft\u0131rma_Tesisi_Otomasyonu\\Forms\\FabrikaGenel.cs",
+              "RelativeDocumentMoniker": "Forms\\FabrikaGenel.cs",
+              "ToolTip": "C:\\Users\\dali7\\source\\repos\\At\u0131k_Ayr\u0131\u015Ft\u0131rma_Tesisi_Otomasyonu\\Forms\\FabrikaGenel.cs [Design]",
+              "RelativeToolTip": "Forms\\FabrikaGenel.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T13:45:35.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "KonveyorSayfasi.cs",
+              "DocumentMoniker": "C:\\Users\\dali7\\source\\repos\\At\u0131k_Ayr\u0131\u015Ft\u0131rma_Tesisi_Otomasyonu\\Forms\\KonveyorSayfasi.cs",
+              "RelativeDocumentMoniker": "Forms\\KonveyorSayfasi.cs",
+              "ToolTip": "C:\\Users\\dali7\\source\\repos\\At\u0131k_Ayr\u0131\u015Ft\u0131rma_Tesisi_Otomasyonu\\Forms\\KonveyorSayfasi.cs",
+              "RelativeToolTip": "Forms\\KonveyorSayfasi.cs",
+              "ViewState": "AgIAAPUAAAAAAAAAAADwvwUBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T13:08:48.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KonveyorSayfasi.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dali7\\source\\repos\\At\u0131k_Ayr\u0131\u015Ft\u0131rma_Tesisi_Otomasyonu\\Forms\\KonveyorSayfasi.cs",
+              "RelativeDocumentMoniker": "Forms\\KonveyorSayfasi.cs",
+              "ToolTip": "C:\\Users\\dali7\\source\\repos\\At\u0131k_Ayr\u0131\u015Ft\u0131rma_Tesisi_Otomasyonu\\Forms\\KonveyorSayfasi.cs [Design]",
+              "RelativeToolTip": "Forms\\KonveyorSayfasi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T08:17:13.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FabrikaA\u015Famalar\u0131.cs",
+              "DocumentMoniker": "C:\\Users\\dali7\\source\\repos\\At\u0131k_Ayr\u0131\u015Ft\u0131rma_Tesisi_Otomasyonu\\Forms\\FabrikaA\u015Famalar\u0131.cs",
+              "RelativeDocumentMoniker": "Forms\\FabrikaA\u015Famalar\u0131.cs",
+              "ToolTip": "C:\\Users\\dali7\\source\\repos\\At\u0131k_Ayr\u0131\u015Ft\u0131rma_Tesisi_Otomasyonu\\Forms\\FabrikaA\u015Famalar\u0131.cs",
+              "RelativeToolTip": "Forms\\FabrikaA\u015Famalar\u0131.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T15:20:50.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AnalizSayfasi.cs",
+              "DocumentMoniker": "C:\\Users\\dali7\\source\\repos\\At\u0131k_Ayr\u0131\u015Ft\u0131rma_Tesisi_Otomasyonu\\Forms\\AnalizSayfasi.cs",
+              "RelativeDocumentMoniker": "Forms\\AnalizSayfasi.cs",
+              "ToolTip": "C:\\Users\\dali7\\source\\repos\\At\u0131k_Ayr\u0131\u015Ft\u0131rma_Tesisi_Otomasyonu\\Forms\\AnalizSayfasi.cs",
+              "RelativeToolTip": "Forms\\AnalizSayfasi.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwB8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T14:50:24.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AnalizSayfasi.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dali7\\source\\repos\\At\u0131k_Ayr\u0131\u015Ft\u0131rma_Tesisi_Otomasyonu\\Forms\\AnalizSayfasi.cs",
+              "RelativeDocumentMoniker": "Forms\\AnalizSayfasi.cs",
+              "ToolTip": "C:\\Users\\dali7\\source\\repos\\At\u0131k_Ayr\u0131\u015Ft\u0131rma_Tesisi_Otomasyonu\\Forms\\AnalizSayfasi.cs [Design]",
+              "RelativeToolTip": "Forms\\AnalizSayfasi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T14:48:59.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FabrikaGenel.cs",
+              "DocumentMoniker": "C:\\Users\\dali7\\source\\repos\\At\u0131k_Ayr\u0131\u015Ft\u0131rma_Tesisi_Otomasyonu\\Forms\\FabrikaGenel.cs",
+              "RelativeDocumentMoniker": "Forms\\FabrikaGenel.cs",
+              "ToolTip": "C:\\Users\\dali7\\source\\repos\\At\u0131k_Ayr\u0131\u015Ft\u0131rma_Tesisi_Otomasyonu\\Forms\\FabrikaGenel.cs",
+              "RelativeToolTip": "Forms\\FabrikaGenel.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAwwLwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T15:12:56.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dali7\\source\\repos\\At\u0131k_Ayr\u0131\u015Ft\u0131rma_Tesisi_Otomasyonu\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\dali7\\source\\repos\\At\u0131k_Ayr\u0131\u015Ft\u0131rma_Tesisi_Otomasyonu\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T19:01:50.605Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 280,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

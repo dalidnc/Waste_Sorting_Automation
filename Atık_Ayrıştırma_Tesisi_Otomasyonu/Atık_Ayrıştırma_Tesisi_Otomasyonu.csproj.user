@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Forms\AnalizSayfasi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FabrikaAşamaları.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\AdminPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FabrikaGenel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\KonveyorSayfasi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\CalisanlarıListeleme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\KullanıcıDüzenlemeSayfası.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\PistonControl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\RegisterEkranı.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\SifremiUnuttum.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
